@@ -2,8 +2,9 @@
 published: true
 layout: post
 title: "Petits choux"
-category: Entrées
+category: starter
 ---
+
 #### Ingrédients
 Pour 18 choux :
 - 20cl d'eau
@@ -22,6 +23,6 @@ Pour 18 choux :
 
 #### Cuisson
 Mettre au four à 180 degrés pendant 20/25min. Ne pas hésiter à bien les laisser dorer sinon le coeur risque d'être encore cru.
- 
+
 
 *Source : http://www.marmiton.org/recettes/recette_petits-choux-fourres_63671.aspx*
