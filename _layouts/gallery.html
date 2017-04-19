@@ -4,11 +4,16 @@ layout: default
 
 <article class="page">
 
-  <h1>{{ page.title }}</h1>
+  <h1><a href="{{ site.baseurl }}/gallery">Gallerie</a></h1>
+  <h4>{{ page.title }}</h4>
 
 	{% for image in site.static_files %}
 	    {% if image.path contains page.category %}
-	        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+
+	        <a href="{{ image.path }}">
+	        	<img src="{{ site.baseurl }}{{ image.path }}" alt="image" style="border: 1px solid #000; max-width:400px; max-height:400px;"/>
+	        </a>
+	    
 	    {% endif %}
 	{% endfor %}
 
