@@ -18,4 +18,4 @@ category: starter
 1. Tout mélanger
 2. Laisser reposer au moins 3 heures (la semoule gonfle sans eau)
   
-*Source : Georges (95) *
+*Source : Georges (95)*
