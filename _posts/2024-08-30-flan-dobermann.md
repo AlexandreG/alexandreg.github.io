@@ -18,7 +18,7 @@ Tout mélanger. Cuire au four 40min a 180°C
 
 #### Macros
 Pour 4 parts :
-302,5	calories
-35g prot
-24g sucre
-9g gras
+- 302,5	calories
+- 35g prot
+- 24g sucre
+- 9g gras
