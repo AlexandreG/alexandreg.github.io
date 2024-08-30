@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Flan de dobermann"
+title: "Le Doberflann"
 category: dessert
 ---
 
