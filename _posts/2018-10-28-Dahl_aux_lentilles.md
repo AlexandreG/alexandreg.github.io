@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Dal aux lentilles"
+title: "Dahl aux lentilles"
 category: dish
 ---
 
