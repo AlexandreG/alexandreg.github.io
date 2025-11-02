@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: "Doigts de sorcière au fromage"
-category: apéritif
+category: starter
 ---
 
 #### Ingrédients
