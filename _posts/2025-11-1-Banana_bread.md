@@ -21,7 +21,7 @@ category: dessert
 
 #### Préparation
 1. Faire fondre le beurre et le laisser devenir noisette.  
-2. Ajouter les bananes écrasées, les faire caraméliser 5 min.  
+2. Ajouter les bananes écrasées, le rhum. Faire caraméliser 5 min.  
 3. Dans un saladier, mélanger le sucre, la cassonade, la protéine, les œufs, le bicarbonate, la levure et le sucre vanillé.  
 4. Incorporer les bananes caramélisées, puis la farine.  
 5. Ajouter le chocolat concassé et mélanger doucement.  
